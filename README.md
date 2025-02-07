@@ -2,7 +2,7 @@
 
 `CURSO: Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA: Trabalho Interdisciplinar: Desenvolvimento de Aplicação Interativa`
+`DISCIPLINA: Desenvolvimento de Aplicações Distribuídas`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
@@ -24,10 +24,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 | Etapa         | Atividade |
 |  :----:   | ----------- |
 | SPRINT 1         |[Escopo e Planejamento](docs/especification.md) |
-| SPRINT 2         |[Projeto de Interface](docs/interface.md) |
-| SPRINT 3         |[Desenvolvimento da Aplicação](docs/development.md) |
-| SPRINT 4         |[Testes e Validação](docs/tests.md) |
-| SPRINT 5         |[Apresentação](presentation/README.md) |
+| SPRINT 2         |[Desenvolvimento da Aplicação](docs/development.md) |
+| SPRINT 3         |[Testes e Validação](docs/tests.md) |
+| SPRINT 4         |[Apresentação](presentation/README.md) |
 
 # Código
 
